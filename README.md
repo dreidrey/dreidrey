@@ -1,3 +1,3 @@
 <p align=center>
-<img src=https://i.ibb.co/HLGjWQLX/totoro-github.gif></img>
+<img src=https://i.ibb.co/bgLNw5gQ/totoro.gif></img>
 </p>
